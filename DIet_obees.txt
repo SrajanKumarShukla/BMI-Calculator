@@ -6,7 +6,7 @@
 ->Lunch(11am to 2pm) :- salad + 2roti/ half bowl rice + sabji / green vagie + 1/4 bowl of curd.
 ->Evening(4am to 6am) :- 1 cup Lemmon tea without sugar + salad.
 ->Dinner(7pm to 10pm) :- same as lunch.
--> After having Dinner walk for atleasy 10 to 15 minutes.
+-> After having Dinner walk for atleasy 10 to 15 minutes. 
 ->Bed time(10pm to 12pm):- lemon tea + warm water 1 glass.
 
 NOTE BEFORE START OF THE DIET PLAN DO THE FOLLOWING
